@@ -19,7 +19,6 @@
 
 ### Technical Skills
 
-**Frontend Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="35" height="35"/>
@@ -28,17 +27,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" title="Material-UI" width="35" height="35"/>
-</p>
-
-**Backend & Database**
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="35" height="35"/>
-</p>
-
-**Testing & Workflow**
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="35" height="35"/>
@@ -47,10 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="35" height="35"/>
-</p>
-
-**Embedded & Hardware**
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35"/>
   <img src="https://img.shields.io/badge/VHDL-0540F2?style=for-the-badge&logoColor=white" alt="VHDL" title="VHDL" height="35"/>
 </p>
