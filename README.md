@@ -1,5 +1,4 @@
 # Hi there, I'm Praew 👋
-### Frontend Developer
 
 ### Profile Summary
 - **Background:** Electrical Engineering graduate with knowledge in Embedded Systems and Hardware Design, transitioning into Software Development.
