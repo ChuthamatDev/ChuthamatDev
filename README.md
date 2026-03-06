@@ -62,6 +62,3 @@
 - Reading books and playing the guitar
 - Taking walks to recharge
 
----
-
-[LinkedIn Profile](https://www.linkedin.com/in/chuthamatdev) | [Contact via Email](mailto:chuthamatbuaban@gmail.com)
