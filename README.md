@@ -8,11 +8,9 @@
 ---
 
 ###  Featured Project & Current Focus
-- **Highlight Project:** **[Kanban Task Board](https://github.com/ChuthamatDev/task-board-react)** (Full-Stack)
-  - *Tech:* React, TypeScript, Tailwind, Node.js, Express, PostgreSQL / MySQL
-  - *Features:* Complex state management, Drag-and-Drop UI, robust relational database design, and fully covered with **Playwright E2E Testing**.
+- **Highlight Project:** **[Kanban Task Board](https://github.com/ChuthamatDev/task-board-react)** (Full-Stack) 
 - **Learning:** Next.js and System Design Architecture
-- **Career Goal:** Frontend Developer (React/TypeScript)
+- **Career Goal:** Frontend Developer (React/TypeScript) and Full-Stack Developer
 - **Tech Interests:** IoT, Embedded Systems, Smart Building, and Real-time Data
 
 ---
@@ -48,4 +46,3 @@
 - I like to drink coffee and ambient music
 - Reading books and playing the guitar
 - Taking walks to recharge
-
