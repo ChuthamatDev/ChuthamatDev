@@ -37,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35"/>
-  <img src="https://img.shields.io/badge/VHDL-0540F2?style=for-the-badge&logoColor=white" alt="VHDL" title="VHDL" height="35"/>
 </p>
 
 ---
