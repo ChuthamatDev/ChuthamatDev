@@ -1,47 +1,39 @@
 # Hi there, I'm Praew 👋
 
-### Profile Summary
-- **Background:** Electrical Engineering graduate with knowledge in Embedded Systems and Hardware Design, transitioning into Software Development.
-- **Focus:** Building clean, responsive web applications using React.js and TypeScript, with a strong emphasis on Software Quality and E2E Testing.
-- **Workflow:** Experienced in Agile team collaboration and familiar with standard CI/CD processes.
+> Electrical Engineering graduate transitioning into Software Development — building clean, responsive web apps with React.js and TypeScript.
 
 ---
 
-###  Featured Project & Current Focus
-- **Highlight Project:** **[Kanban Task Board](https://github.com/ChuthamatDev/task-board-react)** (Full-Stack) 
-- **Learning:** Next.js and System Design Architecture
-- **Career Goal:** Frontend Developer (React/TypeScript) and Full-Stack Developer
-- **Tech Interests:** IoT, Embedded Systems, Smart Building, and Real-time Data
+### 👩‍💻 About Me
+
+- 🎓 **Background** — Electrical Engineering with knowledge in Embedded Systems and Hardware Design
+- ⚛️ **Focus** — React.js · TypeScript · Software Quality · E2E Testing
+- 🔄 **Workflow** — Agile collaboration · CI/CD processes
 
 ---
 
-### Technical Skills
+### 🚀 Current Focus
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" title="Material-UI" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35"/>
-</p>
+| | |
+|---|---|
+| 🏗️ **Highlight Project** | [Kanban Task Board](https://github.com/ChuthamatDev/task-board-react) (Full-Stack) |
+| 📖 **Learning** | Next.js · System Design Architecture |
+| 🎯 **Career Goal** | Frontend Developer (React/TypeScript) → Full-Stack |
+| 💡 **Tech Interests** | IoT · Embedded Systems · Smart Building · Real-time Data |
 
 ---
 
-### Personal Interests
-- I like to drink coffee and ambient music
-- Reading books and playing the guitar
-- Taking walks to recharge
+### 🛠️ Tech Stack
+
+| | |
+|---|---|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Testing** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+---
+
+### 🌿 Beyond the Code
+
+☕ Coffee & ambient music &nbsp;·&nbsp; 📚 Reading books &nbsp;·&nbsp; 🎸 Playing guitar &nbsp;·&nbsp; 🌿 Walking to recharge
