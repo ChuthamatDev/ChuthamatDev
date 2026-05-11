@@ -6,8 +6,8 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Background** — Electrical Engineering with knowledge in Embedded Systems and Hardware Design
-- ⚛️ **Focus** — React.js · TypeScript · Software Quality · E2E Testing
+- 🎓 **Background** — Electrical Engineering
+- ⚛️ **Focus** — Node.js, Vue.js, Golanf, System
 - 🔄 **Workflow** — Agile collaboration · CI/CD processes
 
 ---
