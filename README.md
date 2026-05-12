@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 **Background** — Electrical Engineering
-- ⚛️ **Focus** — Node.js, Vue.js, Golanf, System
+- ⚛️ **Focus** — Node.js, Vue.js, Golang, System
 - 🔄 **Workflow** — Agile collaboration · CI/CD processes
 
 ---
