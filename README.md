@@ -4,10 +4,10 @@
 ---
 
 ### 🚀 Quick Info
-- 🔭 **Projects:** [Kanban Task Board](https://github.com/ChuthamatDev/task-board-react) (React) &nbsp;|&nbsp; Learning Project (Next.js + NestJS)
-- 🌱 **Currently Learning:** System Design Architecture · Docker
-- 🎯 **Career Focus:** Full-Stack (Next.js / Vue / NestJS / Go)
-- 🌿 **Vibe:** ☕ Coffee · 🎧 Ambient Music · 🎸 Guitar
+- **Projects:** [Kanban Task Board](https://github.com/ChuthamatDev/task-board-react) (React) &nbsp;|&nbsp; Learning Project (Next.js + NestJS)
+- **Currently Learning:** System Design Architecture · Docker
+- **Career Focus:** Full-Stack (Next.js / Vue / NestJS / Go)
+- **Vibe:** ☕ Coffee · 🎧 Ambient Music · 🎸 Guitar
 
 ### 🛠️ Tech Stack
 
@@ -27,4 +27,4 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-<p align="center">Let's build something awesome together! 🚀</p>
+<p align="center">Let's build something awesome together!</p>
